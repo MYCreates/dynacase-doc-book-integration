@@ -1,0 +1,11 @@
+book:
+    title:            "Guide d'intégration"
+    module:           "Famille Book"
+    version:          "0.4"
+    edition:          "1"
+    githubsrc: "https://github.com/Anakeen/dynacase-doc-book-integration"
+    language:         fr
+    chapters: 
+        - level:   "1"
+          content:  "introduction.md"
+
