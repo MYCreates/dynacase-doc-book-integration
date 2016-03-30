@@ -1,4 +1,4 @@
-# Constitution d'un assemblage de fichiers {#core-ref:a385258a-de27-4c66-ab90-cd770b1f671c}
+# Constitution d'un assemblage de fichiers  {#book-integration:beb70ace-1c95-452b-88e9-bc5911e555cf}
 
 ![](assemblage-icon.png)
 

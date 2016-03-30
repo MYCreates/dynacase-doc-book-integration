@@ -2,7 +2,8 @@ book:
     title:            "Guide d'intégration"
     module:           "Famille Book"
     version:          "0.4"
-    edition:          "1"
+    edition:          "2"
+    id_prefix:        "book-integration"
     githubsrc: "https://github.com/Anakeen/dynacase-doc-book-integration"
     language:         fr
     chapters: 

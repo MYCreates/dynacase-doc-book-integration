@@ -1,4 +1,4 @@
-# Constitution d'un livre {#core-ref:74c0b7b2-4e50-4e74-8e16-b0642a83d3ab}
+# Constitution d'un livre  {#book-integration:33437218-ea65-44e6-9a6a-4dfe88fd27e9}
 
 ![](fbook-icon.png)
 
@@ -8,7 +8,7 @@ livre devra assembler suivant l'ordre choisi.
 
 ![](fbook-create.png)
 
-## Mise en page du livre {#core-ref:fbd3435f-4dfd-48d7-9936-11046594cfd6}
+## Mise en page du livre  {#book-integration:80268ef6-1e4a-434d-b197-04e7c40cba3c}
 
 Le livre permet deux façons de réaliser votre mise en pages. La première
 consiste a renseigner les paramètres d'entêtes défini dans le cadre "mise en
@@ -25,7 +25,7 @@ openDocument Text pour définir les différents styles (style des titres, des
 entêtes, etc.). Si le fichier est présent les autres informations de mise en
 pages sont ignorées.
 
-## Le chapitre
+## Le chapitre {#book-integration:a6d7632f-05ce-45a3-bd6e-de20fb59aab4}
 
 Pour créer un chapitre, il faut cliquer sur le menu "Insérer un nouveau
 chapitre".
@@ -55,7 +55,7 @@ sur un autre chapitre vous pouvez revenir au précédent sans perdre votre
 
 ![](fbook2.png)
 
-## Production du fichier assemblé {#core-ref:759d9ab0-b9d5-4e06-855e-0a608f2c8c66}
+## Production du fichier assemblé  {#book-integration:747a8a41-eef9-4435-b121-af644ed0eb26}
 
 Une fois vos chapitres écrit vous pouvez voir une pré-assemblage en cliquant sur
 le menu "Visualisation" du livre. Cela vous donne un aperçu HTML de l'assemblage
@@ -66,7 +66,7 @@ et configuré. Cliquer sur le menu "Génération PDF" pour lancer l'assemblage.
 
 ![](fbook4.png)
 
-## Pour aller plus loin {#core-ref:57f720b7-94d9-4083-b52d-955c5df537fa}
+## Pour aller plus loin  {#book-integration:8a322ea3-0680-45de-af13-a7e008046f35}
 
 Le livre fournit par le module est la base pour l'assemblage de texte. Il peut
 être dérivé pour vos besoins spécifiques en ajoutant vos propres attributs. Les
