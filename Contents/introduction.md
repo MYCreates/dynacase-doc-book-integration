@@ -1,4 +1,4 @@
-# Introduction {#core-ref:1c14946e-735f-4978-a720-857628a914d8}
+# Introduction  {#book-integration:3008430c-1227-48d6-a2af-ffa44efaa619}
 
 Le module dynacase-book rassemble trois familles : le livre, le chapitre et
 l'assemblage. Ce module permet de concaténer un ensemble de textes ou de
